@@ -1,10 +1,13 @@
 _repo: Magnhild-Kertomus_52306
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Koskimies, Kaarlo
     gutenberg_agent_id: '46763'
     url: http://www.gutenberg.org/2009/agents/46763
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bjørnson, Bjørnstjerne
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1772
     wikipedia: http://en.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52306#Magnhild-Kertomus
 gutenberg_issued: '2016-06-11'
 gutenberg_type: Text
 identifiers:
