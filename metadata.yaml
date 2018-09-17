@@ -1,0 +1,33 @@
+_repo: Magnhild-Kertomus_52306
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Koskimies, Kaarlo
+    gutenberg_agent_id: '46763'
+    url: http://www.gutenberg.org/2009/agents/46763
+creator:
+  author:
+    agent_name: Bjørnson, Bjørnstjerne
+    aliases:
+    - Bjornson, Bjornstjerne
+    - Björnson, Björnstjerne
+    birthdate: 1832
+    deathdate: 1910
+    gutenberg_agent_id: '1772'
+    url: http://www.gutenberg.org/2009/agents/1772
+    wikipedia: http://en.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
+description: ''
+gutenberg_issued: '2016-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52306'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norwegian fiction -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: 'Magnhild: Kertomus'
+url: http://www.gutenberg.org/ebooks/52306
